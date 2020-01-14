@@ -9,7 +9,7 @@ This exam will test basic CRUD on the api as well as testing basic ui and state 
 ## 1. Setup Development Environment and Tools
 
 - ReactJS
-- Material US (Optional)
+- Material UI (Optional)
 - Python: Flask Framework
 - Database of your choice
 - vscode or any IDE you like
