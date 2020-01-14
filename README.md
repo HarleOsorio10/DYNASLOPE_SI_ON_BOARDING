@@ -20,6 +20,7 @@ This exam will test basic CRUD on the api as well as testing basic ui and state 
 ### Guidelines
 
 1. Front-end should be built using ReactJS and Material UI (Optional). Use ReactHooks as much as possible.
+2. Create your own pull request before the deadline.
 
 ## 3. Server
 
